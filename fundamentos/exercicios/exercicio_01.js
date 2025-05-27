@@ -2,6 +2,7 @@
 let nome = "Leticia";
 let horas = 10;
 
+// Exemplo de string com aspas duplas
 console.log('Meu nome é "Leticia" e estou aprendendo Javascript as', 10 , 'da manhã')
 
 // Exemplo de concatenação de strings
